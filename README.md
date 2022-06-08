@@ -16,3 +16,7 @@ My major in undergrad was Computer Science and Engineering (CSE) and my minor wa
 4. GATE : N/A
 
 > Note: I used [https://www.admissions.iastate.edu/apply/gpa_calc](https://www.admissions.iastate.edu/apply/gpa_calc) to convert my scale 10 CGPA to scale 4.
+
+
+
+###### _External Credits: Repo. image taken from <a href='https://www.freepik.com/vectors/school-building'>School building vector created by sentavio - www.freepik.com</a>_
