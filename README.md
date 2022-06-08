@@ -1,5 +1,5 @@
 # My Grad School Application
-This repository has all the resources that potential grad students can use as references when working on their grad school applications.
+This repository has some the resources that potential grad students can use as references when working on their grad school applications.
 
 I got my acceptance letter from the University of Virginia (UVA), VA, USA for a fully-funded Ph.D. in Computer Science on the 5th of February 2022 (IST).
 
